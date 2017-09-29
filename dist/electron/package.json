@@ -1,0 +1,8 @@
+{
+	"name": "electron-vue-notesapp-automicjs",
+	"version": "1.0.0",
+	"description": "A vue.js powered note taking application",
+	"author": "AutomicJS <michaeldoestech@gmail.com>",
+	"private": true,
+	"main": "elect.js"
+}
